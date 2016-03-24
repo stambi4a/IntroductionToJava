@@ -10,6 +10,7 @@ public class SumNumbers {
             numberSum += i;
         }
 
+         //Changes for github
         System.out.println(numberSum);
     }
 }
